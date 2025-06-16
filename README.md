@@ -4,18 +4,17 @@
 
 Nome da Loja: LA-Business
 Nome do Projeto: E-commerce LA-Business
-Chave do Projeto: LAB-2025
 
 ---
 
-🟣 EPIC 1: CATÁLOGO
+EPIC 1: CATÁLOGO
 
 Objetivo:
 Gerir a organização de categorias de produtos no e-commerce, facilitando a administração e a experiência de compras do usuário.
 
 ---
 
-🔹 User Stories:
+ User Stories:
 
 Como administrador, preciso criar categorias, para facilitar a organização de produtos.
 
@@ -25,7 +24,7 @@ Como usuário, quero navegar pelo catálogo categorizado, para encontrar o que p
 
 ---
 
-🔹 Tarefas:
+ Tarefas:
 
 Modelar tabela de categorias no banco de dados.
 
@@ -37,14 +36,14 @@ Implementar UI para usuário visualizar o catálogo categorizado.
 
 ---
 
-🟣 EPIC 2: PRODUTOS
+ EPIC 2: PRODUTOS
 
 Objetivo:
 Gerir o cadastro, organização, preço, estoque e imagens de produtos no e-commerce.
 
 ---
 
-🔹 User Stories:
+ User Stories:
 
 Como administrador, preciso cadastrar produtos, informando nome, descrição, valor, estoque e imagem.
 
@@ -56,7 +55,7 @@ Como usuário, preciso adicionar o produto ao carrinho, para dar continuidade à
 
 ---
 
-🔹 Tarefas:
+ Tarefas:
 
 Modelar tabela de produtos no banco de dados.
 
@@ -68,14 +67,14 @@ Implementar UI para usuário exibir detalhes do produto e adicioná-la ao carrin
 
 ---
 
-🟣 EPIC 3: USUÁRIO
+ EPIC 3: USUÁRIO
 
 Objetivo:
 Gerir o cadastro, autenticação, perfis, endereços, e permissões de acesso de usuários da plataforma.
 
 ---
 
-🔹 User Stories:
+ User Stories:
 
 Como usuário, preciso criar uma conta, para fazer compras.
 
@@ -87,7 +86,7 @@ Como usuário, preciso atualizar meu perfil, para alteração de nome, senha e e
 
 ---
 
-🔹 Tarefas:
+ Tarefas:
 
 Modelar tabela de usuários no banco de dados.
 
